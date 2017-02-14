@@ -11,7 +11,9 @@ public class main {
 	
 	
 	private static void print(){
-		System.out.println(2+56);
+
+		System.out.println(2+4);
+
 	}
 
 }
